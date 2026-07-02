@@ -12,4 +12,4 @@
 
 ## You're Done! 🎉
 
-The TradingView icon should now appear in the screener. Clicking the icon will open the selected symbol's TradingView chart in a new browser tab.
+The TradingView & Bitunix icon should now appear in the screener. Clicking the icon will open the selected symbol's TradingView chart in a new browser tab.
